@@ -1,6 +1,6 @@
 services:
   natiq-bot:
-    image: natiq-foundation/natiq-bot:latest
+    image: natiqquran/bot:latest
     container_name: natiq-bot
     restart: unless-stopped
     env_file:
