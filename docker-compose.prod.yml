@@ -1,0 +1,10 @@
+services:
+  postgres:
+    ports: []
+
+  redis:
+    ports: []
+
+  bot:
+    volumes: []
+    restart: unless-stopped
