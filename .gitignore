@@ -1,0 +1,10 @@
+env
+.env
+.vscode
+.venv
+__pycache__
+*.pyc
+dist
+node_modules
+rest-client-tests
+logs
